@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
  
-class Sample
+class Captcha
 {
      
     static String generateCaptcha(int n)
